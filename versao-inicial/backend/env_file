@@ -1,0 +1,10 @@
+module.exports = {
+    authSecret: 'preencher com o segredo',
+    db: {
+        host : 'colocar seu ip ',
+        port: colocar a porta que o banco esta usando,
+        database: 'nome do banco de dados',
+        user: 'usuario postgres criado',
+        password: 'senha'
+    }
+}
